@@ -465,7 +465,7 @@ Cooldowns can be managed per player and per arena independently.
 ---
 
 <p align="center">
-  <img src="./images/spectator.gif" width="100%">
+  <img src="./images/spectator.png" width="100%">
 </p>
 
 <p align="center">

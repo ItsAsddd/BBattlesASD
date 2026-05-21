@@ -203,7 +203,7 @@ The objective of the Villas system is improving immersion by making combat progr
 </p>
 
 <p align="center">
-  <img src="./images/arena-config.png" width="100%">
+  <img src="./images/arena-config.gif" width="100%">
 </p>
 
 <p align="center">

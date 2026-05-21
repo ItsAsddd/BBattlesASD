@@ -384,7 +384,7 @@ instead of random entity spawning.
 </p>
 
 <p align="center">
-  <img src="./images/arena-unlocks.png" width="100%">
+  <img src="./images/arena-unlocks.gif" width="100%">
 </p>
 
 <p align="center">
